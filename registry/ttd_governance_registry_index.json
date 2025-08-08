@@ -1,0 +1,13 @@
+{
+  "registry_version": "1.0",
+  "description": "Public TTD Governance Registry - Employment Vote (placeholder)",
+  "timestamp": "2025-08-08T01:06:05Z",
+  "tokens": [
+    {
+      "token_id": "employment-vote-5fa2d1c4",
+      "parent_token_id": null,
+      "chain_index": 17,
+      "ipfs_cid": "<CID_AFTER_UPLOAD>"
+    }
+  ]
+}
